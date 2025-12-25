@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  /* CHANGE THIS HEX CODE TO CHANGE THE WHOLE SITE */
+  --site-bg: #1A1A1A; /* Centralised theme color selection */
+}
+
+body {
+  background-color: var(--site-bg);
+}
